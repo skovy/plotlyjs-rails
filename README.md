@@ -20,3 +20,7 @@ In your JavaScript manifest, add:
 ### Usage
 
 Follow the [Plotly Getting Started Guide](https://plot.ly/javascript/getting-started/)
+
+### Version
+
+The gem version matches the corresponding Plotlyjs release.
