@@ -8,8 +8,7 @@ Gem::Specification.new do |s|
   s.summary     = "The Plotly.js JavaScript library ready to play with Rails."
   s.license     = "MIT"
   s.description = "Simplifies using Plotly.js in Rails"
-  s.summary     = "Simplifies using Plotly.js in Rails"
 
   s.files = Dir["{lib,vendor}/**/*"] + ["README.md"]
-  s.add_dependency 'rails', '>= 3.1'
+  s.add_runtime_dependency 'rails', '~> 3.1'
 end
