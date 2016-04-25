@@ -2,7 +2,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "plotlyjs-rails"
-  s.version     = "1.0.0"
+  s.version     = "1.9.0"
   s.authors     = ["Spencer Miskoviak"]
   s.homepage    = "https://github.com/Skovy/plotlyjs-rails"
   s.summary     = "The Plotly.js JavaScript library ready to play with Rails."
